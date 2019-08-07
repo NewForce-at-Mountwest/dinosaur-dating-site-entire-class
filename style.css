@@ -1,17 +1,12 @@
-.nav__list {
+.flex{
     display: flex;
-    justify-content: space-evenly;
-
+    justify-content: center;
+    background-color: #6ff283;
+    padding: 1em;
 }
 
-.navbar {
-    border: 1px solid red;
-    background-color: lightgray;
-}
-
-.nav__link {
-    font-size: 2em;
+.navLink{
     text-decoration: none;
-    list-style-type: none;
-    color: purple;
+    margin: 1em;
+    font-family: 'Lacquer', sans-serif;
 }
