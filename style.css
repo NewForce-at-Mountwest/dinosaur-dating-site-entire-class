@@ -1,0 +1,17 @@
+.nav__list {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.navbar {
+    border: 1px solid red;
+    background-color: lightgray;
+}
+
+.nav__link {
+    font-size: 2em;
+    text-decoration: none;
+    list-style-type: none;
+    color: purple;
+}
